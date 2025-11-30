@@ -33,9 +33,11 @@ Deployment: Remix IDE
 🚀 Installation & Usage
 
 Prerequisites
-1.	Node.js & Ganache: npm install -g ganache
+1.	Node.js & Ganache:
+    npm install -g ganache
 
-2.	Python 3.x: pip install web3
+2.	Python 3.x:
+    pip install web3
  
 Step 1: Start the Blockchain
 Open your terminal and run a local Ganache instance:
@@ -91,6 +93,7 @@ Simulation: < 50ms (Instant)
  	Mainnet Projection: ~12 seconds (1 Block Confirmation)
 
 👥 Authors
+
 [Moustafa Ahmed Elsayed Hosny]
 
 [Hala Degol]
